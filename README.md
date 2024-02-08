@@ -1,5 +1,11 @@
-<h1 align=center> HI! I'm Sharjun Hussain</h1>
-<h3 align="center">A passionate fullstack developer from Srilanka</h3>
+<h1 align=center> Hi there  I'm Sharjun Hussain</h1>
+<h3 align="center">A 22 Y/O passionate fullstack developer from Srilanka</h3>
+
+<ul>
+  <li>Full Stack MERN Developer</li>
+  <li>Currently Learning Next Js </li>
+  
+</ul>
 
 
 ## 🌐 Socials:
@@ -14,11 +20,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sharjun-hussain&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjun-hussain&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sharjun-hussain&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sharjun-hussain&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
