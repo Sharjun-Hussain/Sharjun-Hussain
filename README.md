@@ -1,5 +1,5 @@
-<h1 align=center> Hi there  I'm Sharjun Hussain</h1>
-<h3 align="center">A 22 Y/O passionate fullstack developer from Srilanka</h3>
+<h3 > Hi there  I'm Sharjun Hussain</h3>
+<h3>A 22 Y/O passionate fullstack developer from Srilanka</h3>
 
 <ul>
   <li>Full Stack MERN Developer</li>
